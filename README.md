@@ -14,7 +14,7 @@ dotnet restore
 dotnet run
 ```
 
-Vai aparecer no terminal o endereço que a API está rodando, algo tipo `http://localhost:5162`.
+Vai aparecer no terminal o endereço que a API está rodando, algo tipo `http://localhost:5000`.
 
 O banco de dados é criado sozinho na primeira vez que roda (arquivo `expenses.db`), então os dados continuam salvos mesmo se fechar a aplicação.
 
