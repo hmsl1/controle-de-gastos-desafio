@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Banco de dados local (cada avaliador deve gerar o dele ao rodar)
+*.db
+*.db-shm
+*.db-wal
+
+# Node / frontend
+node_modules/
+dist/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
